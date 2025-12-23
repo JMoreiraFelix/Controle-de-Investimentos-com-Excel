@@ -1,6 +1,6 @@
 # 📈 Controle-de-Investimentos-com-Excel
 
-Este projeto consiste em uma ferramenta desenvolvida em Microsoft Excel para auxiliar no gerenciamento, acompanhamento e análise de uma carteira de investimentos. O objetivo é consolidar diferentes perfis de investimenbto em Fundo de investimento imobiliário em um único lugar, facilitando a visualização da rentabilidade.
+Este projeto consiste em uma ferramenta desenvolvida em Microsoft Excel para auxiliar no gerenciamento, acompanhamento e análise de uma carteira de investimentos. O objetivo é consolidar diferentes perfis de investimento em Fundo de Investimento Imobiliário (FII) em um único lugar, facilitando a visualização da rentabilidade.
 
 
 # 📬 Contato

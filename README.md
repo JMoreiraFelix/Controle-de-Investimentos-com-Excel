@@ -4,4 +4,4 @@ Este projeto consiste em uma ferramenta desenvolvida em Microsoft Excel para aux
 
 
 # 📬 Contato
-Caso tenha dúvidas ou sugestões de melhoria, sinta-se à vontade para abrir uma Issue ou entrar em contato!
+Caso tenha dúvidas ou sugestões de melhoria, sinta-se à vontade para entrar em contato!
